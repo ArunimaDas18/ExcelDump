@@ -1,2 +1,2 @@
 # ExcelDump
-This project is about Importing excel data to mysql via use of springboot 
+Made an restapi using springboot to  Importing excel data to mysql 
